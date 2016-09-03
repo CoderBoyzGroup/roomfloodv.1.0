@@ -4,6 +4,6 @@
 <LatestVersion>2.0</LatestVersion>
 	<Message>Welcome to My App</Message>
     <DownloadLink>http://google.com/kabir.exe</DownloadLink>
-    <BlockStatus>Yes</BlockStatus>
+    <BlockStatus>No</BlockStatus>
   </Kabir>
 </Data>
